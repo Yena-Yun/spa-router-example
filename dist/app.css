@@ -1,0 +1,36 @@
+hr {
+  margin-top: 50px;
+}
+
+span {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+span:hover {
+  color: #6a00ff;
+}
+
+.link-container {
+  text-align: center;
+}
+
+.link-box {
+  display: inline-block;
+  width: 170px;
+  height: 50px;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 30vh;
+  margin: 0 auto;
+  border: 1px solid #4b4b4b;
+}
+
